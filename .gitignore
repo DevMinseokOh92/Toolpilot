@@ -1,0 +1,45 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# ========================
+# Qt / PyQt
+# ========================
+*.ui~
+*.qrc~
+*.qmlc
+*.jsc
+*.qm
+.moc/
+.qmake.stash
+*.pro.user
+*.pyproject.user
+
+# ========================
+# Build / Dist
+# ========================
+build/
+dist/
+*.spec
+
+# ========================
+# IDE
+# ========================
+.vscode/
+.idea/
+*.swp
+
+# ========================
+# OS
+# ========================
+.DS_Store
+Thumbs.db
